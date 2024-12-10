@@ -39,7 +39,7 @@ screen -S nexus
 ```
 *Run:*
 ```console
-sudo curl https://cli.nexus.xyz/install.sh | sh
+sudo curl curl https://cli.nexus.xyz/ | sh
 ```
 ![image](https://github.com/user-attachments/assets/6d79fad5-4153-4927-b3e2-559fe70fe5b5)
 
